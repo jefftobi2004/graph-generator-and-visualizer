@@ -1,0 +1,3 @@
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\GRAPHS\x64\Debug\GRAPHS.vcxproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\GRAPHS\x64\Debug\GRAPHS.Grafuri.resources
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\GRAPHS\x64\Debug\GRAPHS.vcxproj.GenerateResource.cache

@@ -1,0 +1,23 @@
+﻿  Grafuri.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\classes.h(145,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\classes.h(145,38): warning C4267:         with
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\classes.h(145,38): warning C4267:         [
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\classes.h(145,38): warning C4267:             _Ty=int
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\classes.h(145,38): warning C4267:         ]
+  (compiling source file 'Grafuri.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\classes.h(247,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Grafuri.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\second_classes.h(124,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Grafuri.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\second_classes.h(170,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Grafuri.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\Grafuri.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\second_classes.h(88): warning C4715: 'GRAPHS::Crosssing::isEulerianCycle': not all control paths return a value
+  Grafuri.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Grafuri.obj : warning LNK4248: unresolved typeref token (01000021) for 'GVC_s'; image may not run
+  GRAPHS.vcxproj -> C:\Users\andre\OneDrive\Desktop\Facultate\Anul 2\Modulul 3\Algoritmica Grafurilor\Proiect\GRAPHS\x64\Debug\GRAPHS.exe
